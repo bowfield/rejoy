@@ -1,4 +1,4 @@
 # reJoy
 Виртуальный джойстик с удаленным управлением
 
-![image](https://raw.githubusercontent.com/kotleni/rejoy/main/image.jpg)
+<img src="https://raw.githubusercontent.com/kotleni/rejoy/main/image.jpg" width="40"></img>
